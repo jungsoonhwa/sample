@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_1604" data-name="사각형 1604" width="67.258" height="71.41" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="icon_feature03_bw" transform="translate(-40 -289)">
+    <rect id="사각형_1586" data-name="사각형 1586" width="80" height="80" transform="translate(40 289)" fill="none"/>
+    <g id="그룹_653" data-name="그룹 653" transform="translate(48 293.295)">
+      <g id="그룹_650" data-name="그룹 650">
+        <g id="그룹_649" data-name="그룹 649" clip-path="url(#clip-path)">
+          <path id="패스_319" data-name="패스 319" d="M61.343,35.705V18.141L30.922.577.5,18.141V53.269L30.922,70.833l5.924-3.421" fill="none" stroke="#fff" stroke-width="1"/>
+          <path id="패스_320" data-name="패스 320" d="M42.922,41.833l-12-6.43L.5,52.967" fill="none" stroke="#fff" stroke-width="1" stroke-dasharray="4 4"/>
+        </g>
+      </g>
+      <line id="선_6" data-name="선 6" y1="32.863" transform="translate(30.921 2.412)" fill="none" stroke="#fff" stroke-width="1" stroke-dasharray="4 4"/>
+      <g id="그룹_652" data-name="그룹 652">
+        <g id="그룹_651" data-name="그룹 651" clip-path="url(#clip-path)">
+          <path id="패스_321" data-name="패스 321" d="M67.258,57.225V49.46H64.777a14.167,14.167,0,0,0-1.335-3.176L65.4,44.326l-5.49-5.491L57.9,40.844a14.13,14.13,0,0,0-2.936-1.2V36.519H47.2v3.129a14.164,14.164,0,0,0-2.76,1.1l-2.374-2.374-5.491,5.49,2.246,2.246a14.121,14.121,0,0,0-1.233,2.7H34.258v7.765H37.22a14.1,14.1,0,0,0,1.052,2.979l-2.155,2.155,5.49,5.491,1.845-1.845a14.185,14.185,0,0,0,3.1,1.48v2.681h7.765V67.2a14.123,14.123,0,0,0,3.407-1.271l1.727,1.727,5.491-5.49-1.6-1.6a14.18,14.18,0,0,0,1.433-3.347ZM55.417,59.989c-7.51,4.161-15.143-3.472-10.982-10.981A5.954,5.954,0,0,1,46.747,46.7c7.509-4.16,15.142,3.472,10.981,10.982a5.956,5.956,0,0,1-2.311,2.311" fill="#4026ee"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

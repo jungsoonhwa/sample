@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_1597" data-name="사각형 1597" width="72.801" height="61.397" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="icon_feature04_bw" transform="translate(-40 -289)">
+    <rect id="사각형_1586" data-name="사각형 1586" width="80" height="80" transform="translate(40 289)" fill="none"/>
+    <g id="그룹_644" data-name="그룹 644" transform="translate(43.6 302.001)">
+      <g id="그룹_641" data-name="그룹 641">
+        <g id="그룹_640" data-name="그룹 640" clip-path="url(#clip-path)">
+          <path id="패스_304" data-name="패스 304" d="M66.489,26.5V2.034H4V39H35.244V60.5" fill="none" stroke="#fff" stroke-width="0.942"/>
+        </g>
+      </g>
+      <line id="선_4" data-name="선 4" x2="22" transform="translate(36.489 14.233)" fill="none" stroke="#fff" stroke-width="0.856"/>
+      <line id="선_5" data-name="선 5" x2="22" transform="translate(36.489 21.233)" fill="none" stroke="#fff" stroke-width="0.856"/>
+      <rect id="사각형_1598" data-name="사각형 1598" width="70.49" height="4" transform="translate(0 -0.001)" fill="#4026ee"/>
+      <g id="그룹_643" data-name="그룹 643">
+        <g id="그룹_642" data-name="그룹 642" clip-path="url(#clip-path)">
+          <path id="패스_305" data-name="패스 305" d="M20.989,30h0a9.5,9.5,0,1,1,9.5-9.5A9.5,9.5,0,0,1,20.989,30Z" fill="none" stroke="#fff" stroke-width="0.905"/>
+          <path id="패스_306" data-name="패스 306" d="M20.989,11.9v8.6l7.69,5.881" fill="none" stroke="#fff" stroke-width="0.905"/>
+          <rect id="사각형_1599" data-name="사각형 1599" width="21" height="1" transform="translate(25.489 60)" fill="#fff"/>
+          <path id="패스_307" data-name="패스 307" d="M71.95,50.6l.851-7.718-2.466-.272a14.18,14.18,0,0,0-.979-3.3l2.161-1.731-4.856-6.059-2.217,1.776a14.153,14.153,0,0,0-2.787-1.511L62,28.667l-7.718-.851-.343,3.109a14.173,14.173,0,0,0-2.864.8l-2.1-2.621-6.059,4.855L44.9,36.433a14.194,14.194,0,0,0-1.521,2.549l-3.309-.365-.851,7.717,2.944.325a14.1,14.1,0,0,0,.719,3.077L40.5,51.642,45.36,57.7,47.4,56.07a14.145,14.145,0,0,0,2.919,1.81l-.294,2.666,7.718.851.253-2.3a14.134,14.134,0,0,0,3.526-.89l1.528,1.907,6.059-4.856-1.413-1.763a14.118,14.118,0,0,0,1.791-3.17ZM59.877,52.045c-7.921,3.313-14.671-5.111-9.711-12.119a5.943,5.943,0,0,1,2.551-2.044c7.92-3.312,14.67,5.111,9.711,12.119a5.956,5.956,0,0,1-2.551,2.044" fill="#4026ee"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

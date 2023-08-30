@@ -1,0 +1,22 @@
+.section1 .create-site-bar-div {
+	width:  auto;
+	margin-bottom: 5%;
+}
+
+#create-site-bar {
+    appearance: none;
+    width: 100%;
+}
+
+#create-site-bar::-webkit-progress-bar {
+    background:#f0f0f0;
+    border-radius:10px;
+    box-shadow: inset 3px 3px 10px #ccc;
+}
+
+#create-site-bar::-webkit-progress-value {
+    border-radius:10px;
+    background: #1D976C;
+    background: -webkit-linear-gradient(to right, #4664FF, #4026EE);
+    background: linear-gradient(to right, #4664FF, #4026EE);
+}
