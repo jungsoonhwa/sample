@@ -206,7 +206,9 @@
 .main-technology-con03 .area-box{display: flex;}
 .main-technology-con03-left{width: 56rem;}
 .main-technology-con03 .main-sub-tit .txt02{margin-left: 7rem;}
-.main-technology-con03 .main-sub-tit .txt03{margin-left: 21.5rem;}
+.main-technology-con03 .main-sub-tit .txt03{margin-left: 14.5rem;}
+
+.main-technology-con03 .main-sub-tit .txt04{margin-left: 21.5rem;}
 .main-technology-con03 .main-technology-txt h5{font-size: 2.4rem;}
 .main-technology-con03 .main-technology-txt p{font-size: 1.8rem;}
 
@@ -214,7 +216,7 @@
 .main-technology-con03-list{margin: -3rem -1.55%; display: flex; flex-wrap:wrap;}
 .main-technology-con03-item{padding: 7rem 5.2% 5rem; width: 46.9%; margin: 3rem 1.55%; position: relative; background-color: #111; border-radius: 2.5rem; box-sizing: border-box; transition:var(--transition-custom);}
 .main-technology-con03-item:nth-child(1){margin-top: 10rem;}
-.main-technology-con03-item:nth-child(2){margin-top: 0;}
+.main-technology-con03-item:nth-child(2){margin-top: 10rem;}
 .main-technology-con03-item:before{position: absolute; top: 0; left: 0; content: ''; width: 100%; height: 100%; background: url('../images/main/main_technology_con03_cover.png') 0 0 no-repeat; background-size: cover; border-radius: 2.5rem;}
 .main-technology-con03-txt{}
 .main-technology-con03-txt h5{font-size: 3rem; line-height: 1.3; color: #fff; font-weight: 700;}
