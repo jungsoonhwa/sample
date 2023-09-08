@@ -685,11 +685,3 @@ a:hover .over-bg{
 .cm-word-split-JS.splitting .word{overflow:hidden; line-height:1.1; display:inline-block;}
 .cm-word-split-JS.splitting .char{display:inline-block; position:relative; font-size:inherit; font-family:inherit; font-weight:inherit; opacity:0; }
 
-/* 하위브라우저 팝업창 */
-#browserUpgradePopup .browser-upgrade-popup-dim:before{position:fixed; top:0px; left:0px; width:100%; height:100%; background:rgba(0,0,0,0.6); content:""; z-index:99998}
-#browserUpgradePopup .browser-upgrade-popup-inner{position:fixed; top:50%; left:50%; width:500px; transform:translate(-50%,-50%); padding:100px 0; color:#222; background-color:#fff; text-align:center; z-index:99999; box-shadow:5px 1px 5px  rgba(0,0,0,0.25); font-family:sans-serif; border-radius:10px;}
-#browserUpgradePopup .browser-popup-close-btn{position:absolute; top:13px; right:13px; font-size:30px; color:#222;}
-#browserUpgradePopup .browser-popup-caution-icon{font-size:40px;}
-#browserUpgradePopup .browser-popup-tit{font-size:30px; letter-spacing:-2px; font-weight:500; padding:20px 0;}
-#browserUpgradePopup .browser-popup-txt{font-size:15px; line-height:1.7; }
-#browserUpgradePopup .browser-popup-txt b{font-weight:600;}
