@@ -9,7 +9,7 @@
  * SETTING
 ======================================================== */
 :root{
-	--main-color: #ec911c;
+	--main-color: #1c73ec;
 	--area-wide-width: 1720px;
 	--area-box-width: 1520px;
 	--area-width: 1200px;
@@ -27,7 +27,7 @@ html:not(.is-mobile) *::-webkit-scrollbar {
 	/* height: 15px; */
 }
 html:not(.is-mobile) *::-webkit-scrollbar-track {
-	bbackground-color:#ccc; background:rgba(0,0,0,0.8); border-radius:0;
+	background-color:#ccc; background:rgba(0,0,0,0.8); border-radius:0;
 }
 html:not(.is-mobile) *::-webkit-scrollbar-thumb {
 	background-color:var(--main-color); border-radius:0px; transition:all 0.5s;
@@ -287,12 +287,6 @@ table, th, td{word-break:break-word;}
 
 
 
-@charset "utf-8";
-/* *******************************************************
- * filename : layout_responsive.css
- * description : 전체 레이아웃 반응형 CSS
- * date : 2022-07-26
-******************************************************** */
 
 /* ========================================================
  * SETTING
